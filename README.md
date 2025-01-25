@@ -1,6 +1,6 @@
 
 # Analytical-Study-and-Visualization-of-Health-Insurance-Data
-The Health Insurance Data Analysis and Visualization project examines health insurance data to identify factors influencing claims and uncover patterns. Utilizing data cleaning, exploratory data analysis (EDA), and visualization techniques, it provides insights to inform decision-making in the health insurance industry.
+Analytical-Study-and-Visualization-of-Health-Insurance-Data project examines health insurance data to identify factors influencing claims and uncover patterns. Utilizing data cleaning, exploratory data analysis (EDA), and visualization techniques, it provides insights to inform decision-making in the health insurance industry.
 
 #Analytical-Study-and-Visualization-of-Health-Insurance-Data
 
@@ -19,7 +19,7 @@ This repository contains a project focused on analyzing and visualizing health i
 ---
 
 ## Project Overview
-The Health Insurance Data Analysis and Visualization project leverages Python and data visualization libraries to analyze key metrics in the health insurance domain. This project helps in understanding:
+Analytical-Study-and-Visualization-of-Health-Insurance-Data project leverages Python and data visualization libraries to analyze key metrics in the health insurance domain. This project helps in understanding:
 
 - Distribution of insurance charges based on demographic and health factors
 - Correlations between variables such as age, BMI, and smoking status
