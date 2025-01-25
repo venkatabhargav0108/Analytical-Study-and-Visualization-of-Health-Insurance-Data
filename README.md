@@ -54,7 +54,7 @@ The dataset is either publicly available or simulated for educational purposes. 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kuchekaraarati/Health-Insurance-Data-Analysis-and-Visualization.git
+   https://github.com/venkatabhargav0108/Analytical-Study-and-Visualization-of-Health-Insurance-Data.git
    ```
 2. Navigate to the project directory:
    ```bash
